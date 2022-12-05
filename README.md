@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarimarcus
+- 👋 Hi, I’m Olivier Depiesse ! 
 - 👀 I’m interested in Web2/Web3 development and project management
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Webd3 projects
